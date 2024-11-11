@@ -37,10 +37,6 @@ exit(0);}
 ```
 
 
-
-
-
-
 ## 2.To Write a C program that illustrates files locking
 ```c
 #include <fcntl.h>
@@ -83,17 +79,14 @@ return 0;
 
 ```
 
-
-
 ## OUTPUT
 ## 1.To Write a C program that illustrates files copying 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/d6cad826-c485-4c8b-9794-4e201cf75016)
 
 ## 2.To Write a C program that illustrates files locking
-![alt text](image-1.png)
 
-
+![image](https://github.com/user-attachments/assets/6ec51a80-df5f-4920-9a25-78dfe3c4ddaa)
 
 # RESULT:
 The programs are executed successfully.
